@@ -1,0 +1,863 @@
+Ecuador
+1	GK	Hernan GALINDEZ	30 March 1987 (aged 35)	12	0	Ecuador Aucas
+2	DF	Felix TORRES	11 January 1997 (aged 25)	17	2	Mexico Santos Laguna
+3	DF	Piero HINCAPIE	9 January 2002 (aged 20)	21	1	Germany Bayer Leverkusen
+4	DF	Robert ARBOLEDA	22 October 1991 (aged 31)	33	2	Brazil Sao Paulo
+5	MF	Jose CIFUENTES	12 March 1999 (aged 23)	11	0	United-States Los Angeles FC
+6	DF	William PACHO	16 October 2001 (aged 21)	0	0	Belgium Antwerp
+7	DF	Pervis ESTUPINAN	21 January 1998 (aged 24)	28	3	England Brighton & Hove Albion
+8	MF	Carlos GRUEZO	19 April 1995 (aged 27)	46	1	Germany FC Augsburg
+9	MF	Eduar PRECIADO	17 July 1994 (saged 28)	27	3	Mexico Santos Laguna
+10	MF	Romario IBARRA	24 September 1994 (aged 28)	25	3	Mexico Pachuca
+11	FW	Michael ESTRADA	7 April 1996 (aged 26)	36	8	Mexico Cruz Azul
+12	GK	Moises RAMIREZ	9 September 2000 (aged 22)	2	0	Ecuador Independiente del Valle
+13	FW	Enner VALENCIA (captain)	4 November 1989 (aged 33)	74	35	Turkey Fenerbahce
+14	DF	Xavier ARREAGA	28 September 1994 (aged 28)	18	1	United-States Seattle Sounders FC
+15	MF	Angel MENA	21 January 1988 (aged 34)	46	7	Mexico Leon
+16	MF	Jeremy SARMIENTO	16 June 2002 (aged 20)	9	0	England Brighton & Hove Albion
+17	DF	Angelo PRECIADO	18 February 1998 (aged 24)	24	0	Belgium Genk
+18	DF	Diego PALACIOS	12 July 1999 (aged 23)	12	0	United-States Los Angeles FC
+19	MF	Gonzalo PLATA	1 November 2000 (aged 22)	30	5	Spain Valladolid
+20	MF	Jhegson MENDEZ	26 April 1997 (aged 25)	32	0	United-States Los Angeles FC
+21	MF	Alan FRANCO	21 August 1998 (aged 24)	25	1	Argentina Talleres
+22	GK	Alexander DOMINGUEZ	5 June 1987 (aged 35)	68	0	Ecuador LDU Quito
+23	MF	Moises CAICEDO	2 November 2001 (aged 21)	25	2	England Brighton & Hove Albion
+24	FW	Djorkaeff REASCO	18 January 1999 (aged 23)	4	0	Argentina Newell's Old Boys
+25	DF	Jackson POROZO	4 August 2000 (aged 22)	5	0	France Troyes
+26	FW	Kevin RODRIGUEZ	4 March 2000 (aged 22)	1	0	Ecuador Imbabura
+Netherlands
+1	GK	Remko PASVEER	8 November 1983 (aged 39)	2	0	Netherlands Ajax
+2	DF	Jurrien TIMBER	17 June 2001 (aged 21)	10	0	Netherlands Ajax
+3	DF	Matthijs DE LIGT	12 August 1999 (aged 23)	38	2	Germany Bayern Munich
+4	DF	Virgil VAN DIJK (captain)	8 July 1991 (aged 31)	49	6	England Liverpool
+5	DF	Nathan AKE	18 February 1995 (aged 27)	29	3	England Manchester City
+6	DF	Stefan DE VRIJ	5 February 1992 (aged 30)	59	3	Italy Internazionale
+7	FW	Steven BERGWIJN	8 October 1997 (aged 25)	24	7	Netherlands Ajax
+8	FW	Cody GAKPO	7 May 1999 (aged 23)	9	3	Netherlands PSV Eindhoven
+9	FW	Luuk DE JONG	27 August 1990 (aged 32)	38	8	Netherlands PSV Eindhoven
+10	FW	Memphis DEPAY	13 February 1994 (aged 28)	81	42	Spain Barcelona
+11	MF	Steven BERGHUIS	19 December 1991 (aged 30)	39	2	Netherlands Ajax
+12	FW	Noa LANG	17 June 1999 (aged 23)	5	1	Belgium Club Brugge
+13	GK	Justin BIJLOW	22 January 1998 (aged 24)	6	0	Netherlands Feyenoord
+14	MF	Davy KLAASSEN	21 February 1993 (aged 29)	35	9	Netherlands Ajax
+15	MF	Marten DE ROON	29 March 1991 (aged 31)	30	0	Italy Atalanta
+16	DF	Tyrell MALACIA	17 August 1999 (aged 23)	6	0	England Manchester United
+17	DF	Daley BLIND	9 March 1990 (aged 32)	94	2	Netherlands Ajax
+18	FW	Vincent JANSSEN	15 June 1994 (aged 28)	20	7	Belgium Antwerp
+19	FW	Wout WEGHORST	7 August 1992 (aged 30)	15	3	Turkey Beşiktaş
+20	MF	Teun KOOPMEINERS	28 February 1998 (aged 24)	10	1	Italy Atalanta
+21	MF	Frenkie DE JONG	12 May 1997 (aged 25)	45	1	Spain Barcelona
+22	DF	Denzel DUMFRIES	18 April 1996 (aged 26)	37	5	Italy Internazionale
+23	GK	Andries NOPPERT	7 April 1994 (aged 28)	0	0	Netherlands Heerenveen
+24	MF	Kenneth TAYLOR	16 May 2002 (aged 20)	2	0	Netherlands Ajax
+25	MF	Xavi SIMONS	21 April 2003 (aged 19)	0	0	Netherlands PSV Eindhoven
+26	DF	Jeremie FRIMPONG	10 December 2000 (aged 21)	0	0	Germany Bayer Leverkusen
+Qatar
+1	GK	SAAD ALSHEEB	19 February 1990 (aged 32)	76	0	Qatar Al-Sadd
+2	DF	PEDRO MIGUEL		6 August 1990 (aged 32)	80	1	Qatar Al-Sadd
+3	MF	ABDELKARIM HASSAN	28 August 1993 (aged 29)	130	15	Qatar Al-Sadd
+4	DF	MOHAMMED WAAD	18 September 1999 (aged 23)	21	0	Qatar Al-Sadd
+5	DF	TAREK SALMAN	5 December 1997 (aged 24)	58	0	Qatar Al-Sadd
+6	MF	ABDULAZIZ HATEM	1 January 1990 (aged 32)	107	11	Qatar Al-Rayyan
+7	FW	AHMED ALAAELDIN	31 January 1993 (aged 29)	47	2	Qatar Al-Gharafa
+8	MF	ALI ASSADALLA	19 January 1993 (aged 29)	59	12	Qatar Al-Sadd
+9	FW	MOHAMMED MUNTARI	20 December 1993 (aged 28)	48	13	Qatar Al-Duhail
+10	MF	HASSAN ALHAYDOS (captain)	11 December 1990 (aged 31)	169	36	Qatar Al-Sadd
+11	FW	AKRAM AFIF	18 November 1996 (aged 26)	89	26	Qatar Al-Sadd
+12	MF	KARIM BOUDIAF	16 September 1990 (aged 32)	115	6	Qatar Al-Duhail
+13	DF	MUSAAB KHIDIR	1 January 1993 (aged 29)	30	0	Qatar Al-Sadd
+14	DF	HOMAM AHMED	25 August 1999 (aged 23)	29	2	Qatar Al-Gharafa
+15	DF	BASSAM HISHAM	16 December 1997 (aged 24)	58	2	Qatar Al-Duhail
+16	DF	BOUALEM KHOUKHI	9 July 1990 (aged 32)	105	20	Qatar Al-Sadd
+17	DF	ISMAIL MOHAMAD	5 April 1990 (aged 32)	70	4	Qatar Al-Duhail
+18	FW	KHALID MUNEER	24 February 1998 (aged 24)	2	0	Qatar Al-Wakrah
+19	FW	ALMOEZ ALI	19 August 1996 (aged 26)	85	42	Qatar Al-Duhail
+20	MF	SALEM AL HAJRI	10 April 1996 (aged 26)	22	0	Qatar Al-Sadd
+21	GK	YOUSOF HASSAN	24 May 1996 (aged 26)	7	0	Qatar Al-Gharafa
+22	GK	MESHAAL BARSHAM	14 February 1998 (aged 24)	20	0	Qatar Al-Sadd
+23	MF	ASSIM MADIBO	22 October 1996 (aged 26)	43	0	Qatar Al-Duhail
+24	MF	NAIF ABDULRAHEEM	18 July 2001 (aged 21)	1	0	Qatar Al-Rayyan
+25	MF	JASSEM GABER	20 February 2002 (aged 20)	0	0	Qatar Al-Arabi
+26	MF	Mostafa Meshaal	28 March 2001 (aged 21)	1	0	Qatar Al-Sadd
+Senegal
+1	GK	Seny DIENG	23 November 1994 (aged 27)	4	0	England Queens Park Rangers
+2	DF	Formose MENDY	2 January 2001 (aged 21)	2	0	France Amiens
+3	DF	Kalidou KOULIBALY (captain)	20 June 1991 (aged 31)	64	0	England Chelsea
+4	DF	Pape Abou CISSE	14 September 1995 (aged 27)	13	1	Greece Olympiacos
+5	MF	Idrissa Gana GUEYE	26 September 1989 (aged 33)	96	7	England Everton
+6	MF	Nampalys MENDY	23 June 1992 (aged 30)	19	0	England Leicester City
+7	FW	Nicolas JACKSON	20 June 2001 (aged 21)	0	0	Spain Villarreal
+8	DF	Cheikhou KOUYATE	21 December 1989 (aged 32)	83	4	England Nottingham Forest
+9	FW	Boulaye DIA	16 November 1996 (aged 26)	19	3	Italy Salernitana
+10	DF	Moussa NDIAYE	18 June 2002 (aged 20)	0	0	Belgium Anderlecht
+11	MF	Pathe CISS	16 March 1994 (aged 28)	1	0	Spain Rayo Vallecano
+12	DF	Fode BALLO	3 January 1997 (aged 25)	14	0	Italy Milan
+13	FW	Iliman NDIAYE	6 March 2000 (aged 22)	2	0	England Sheffield United
+14	DF	Ismail JAKOBS	17 August 1999 (aged 23)	2	0	France Monaco
+15	MF	Krepin DIATTA	25 February 1999 (aged 23)	26	2	France Monaco
+16	GK	Edouard MENDY	1 March 1992 (aged 30)	25	0	England Chelsea
+17	MF	Pape SARR	14 September 2002 (aged 20)	10	0	England Tottenham Hotspur
+18	FW	Ismaila SARR	25 February 1998 (aged 24)	48	10	England Watford
+19	FW	Famara DIEDHIOU	15 December 1992 (aged 29)	25	10	Turkey Alanyaspor
+20	FW	Bamba Dieng	23 March 2000 (aged 22)	13	1	France Marseille
+21	DF	Youssouf SABALY	5 March 1993 (aged 29)	24	0	Spain Real Betis
+22	DF	Abdou DIALLO	4 May 1996 (aged 26)	18	2	Germany RB Leipzig
+23	GK	Alfred GOMIS	5 September 1993 (aged 29)	13	0	France Rennes
+24	DF	Moustapha Name	5 May 1995 (aged 27)	6	0	Cyprus Pafos
+25	MF	Mamadou NDIAYE	30 December 1996 (aged 25)	3	0	England Reading
+26	MF	Pape GUEYE	24 January 1999 (aged 23)	12	0	France Marseille
+England
+1	GK	Jordan PICKFORD	7 March 1994 (aged 28)	45	0	England Everton
+2	DF	Kyle WALKER	28 May 1990 (aged 32)	70	0	England Manchester City
+3	DF	Luke SHAW	12 July 1995 (aged 27)	23	3	England Manchester United
+4	MF	Declan RICE	14 January 1999 (aged 23)	34	2	England West Ham United
+5	DF	John STONES	28 May 1994 (aged 28)	59	3	England Manchester City
+6	DF	Harry MAGUIRE	5 March 1993 (aged 29)	48	7	England Manchester United
+7	FW	Jack GREALISH	10 September 1995 (aged 27)	24	1	England Manchester City
+8	MF	Jordan HENDERSON	17 June 1990 (aged 32)	70	2	England Liverpool
+9	FW	Harry KANE (captain)	28 July 1993 (aged 29)	75	51	England Tottenham Hotspur
+10	FW	Raheem STERLING	8 December 1994 (aged 27)	79	19	England Chelsea
+11	FW	Marcus RASHFORD	31 October 1997 (aged 25)	46	12	England Manchester United
+12	DF	Kieran TRIPPIER	19 September 1990 (aged 32)	37	1	England Newcastle United
+13	GK	Nick POPE	19 April 1992 (aged 30)	10	0	England Newcastle United
+14	MF	Kalvin PHILLIPS	2 December 1995 (aged 26)	23	0	England Manchester City
+15	DF	Eric DIER	15 January 1994 (aged 28)	47	3	England Tottenham Hotspur
+16	DF	Conor COADY	25 February 1993 (aged 29)	10	1	England Everton
+17	FW	Bukayo SAKA	5 September 2001 (aged 21)	20	4	England Arsenal
+18	DF	Trent ALEXANDER-ARNOLD	7 October 1998 (aged 24)	17	1	England Liverpool
+19	MF	Mason MOUNT	10 January 1999 (aged 23)	32	5	England Chelsea
+20	MF	Phil FODEN	28 May 2000 (aged 22)	18	2	England Manchester City
+21	DF	Ben WHITE	8 October 1997 (aged 25)	4	0	England Arsenal
+22	MF	Jude BELLINGHAM	29 June 2003 (aged 19)	17	0	Germany Borussia Dortmund
+23	GK	Aaron RAMSDALE	14 May 1998 (aged 24)	3	0	England Arsenal
+24	FW	Callum WILSON	27 February 1992 (aged 30)	4	1	England Newcastle United
+25	MF	James MADDISON	23 November 1996 (aged 25)	1	0	England Leicester City
+26	MF	Conor GALLAGHER	6 February 2000 (aged 22)	4	0	England Chelsea
+Iran
+1	GK	Ali BEIRANVAND	21 September 1992 (aged 30)	52	0	Iran Persepolis
+2	DF	Sadegh MOHARRAMI	1 March 1996 (aged 26)	21	0	Croatia Dinamo Zagreb
+3	DF	Ehsan HAJI SAFI (captain)	25 February 1990 (aged 32)	121	7	Greece AEK Athens
+4	DF	Shojae KHALILZADEH	14 May 1989 (aged 33)	25	1	Qatar Al-Ahli Doha
+5	DF	Milad MOHAMMADI	29 September 1993 (aged 29)	45	1	Greece AEK Athens
+6	MF	Saeid EZATOLAHI	1 October 1996 (aged 26)	47	1	Denmark Vejle
+7	MF	Alireza JAHANBAKHSH	11 August 1993 (aged 29)	64	13	Netherlands Feyenoord
+8	DF	Morteza POURALIGANJI	19 April 1992 (aged 30)	46	3	Iran Persepolis
+9	FW	Mehdi TAREMI	18 July 1992 (aged 30)	60	28	Portugal Porto
+10	FW	Karim ANSARIFARD	3 April 1990 (aged 32)	94	29	Cyprus Omonia
+11	MF	Vahid AMIRI	2 April 1988 (aged 34)	68	2	Iran Persepolis
+12	GK	Payam NIAZMAND	6 April 1995 (aged 27)	1	0	Iran Sepahan
+13	DF	Hossein Kanaanizadegan	23 March 1994 (aged 28)	35	2	Qatar Al-Ahli Doha
+14	MF	Saman GHODDOS	6 September 1993 (aged 29)	33	2	England Brentford
+15	DF	Roozbeh CHESHMI	24 July 1993 (aged 29)	19	1	Iran Esteghlal
+16	MF	Mahdi TORABI	10 September 1994 (aged 28)	36	7	Iran Persepolis
+17	MF	Ali GHOLIZADEH	10 March 1996 (aged 26)	26	6	Belgium Charleroi
+18	MF	Ali KARIMI	11 February 1994 (aged 28)	13	0	Turkey Kayserispor
+19	DF	Majid HOSSEINI	20 June 1996 (aged 26)	18	0	Turkey Kayserispor
+20	FW	Sardar AZMOUN	1 January 1995 (aged 27)	65	41	Germany Bayer Leverkusen
+21	MF	Ahmad NOOROLLAHI	1 February 1993 (aged 29)	25	3	United-Arab-Emirates Shabab Al-Ahli
+22	GK	Amir ABEDZADEH 26 April 1993 (aged 29)	11	0	Spain Ponferradina
+23	DF	Ramin REZAEIAN	21 March 1990 (aged 32)	46	2	Iran Sepahan
+24	GK	Hossein HOSSEINI	30 June 1992 (aged 30)	6	0	Iran Esteghlal
+25	DF	Abolfazl JALALI	26 June 1998 (aged 24)	3	0	Iran Esteghlal
+United States
+1	GK	Matt TURNER	24 June 1994 (aged 28)	20	0	England Arsenal
+2	DF	Sergino DEST	3 November 2000 (aged 22)	19	2	Italy Milan
+3	DF	Walker ZIMMERMAN	19 May 1993 (aged 29)	33	3	United-States Nashville SC
+4	MF	Tyler ADAMS (captain)	14 February 1999 (aged 23)	32	1	England Leeds United
+5	DF	Antonee ROBINSON	8 August 1997 (aged 25)	29	2	England Fulham
+6	MF	Yunus MUSAH	29 November 2002 (aged 19)	19	0	Spain Valencia
+7	FW	Giovanni REYNA	13 November 2002 (aged 20)	14	4	Germany Borussia Dortmund
+8	MF	Weston McKENNIE	28 August 1998 (aged 24)	37	9	Italy Juventus
+9	FW	Jesus FERREIRA	24 December 2000 (aged 21)	15	7	United-States FC Dallas
+10	FW	Christian PULISIC	18 September 1998 (aged 24)	52	21	England Chelsea
+11	FW	Brenden AARONSON	22 October 2000 (aged 22)	24	6	England Leeds United
+12	GK	Ethan HORVATH	9 June 1995 (aged 27)	8	0	England Luton Town
+13	DF	Tim REAM	5 October 1987 (aged 35)	46	1	England Fulham
+14	MF	Luca DE LA TORRE	23 May 1998 (aged 24)	12	0	Spain Celta Vigo
+15	DF	Aaron LONG	12 October 1992 (aged 30)	29	3	United-States New York Red Bulls
+16	FW	Jordan MORRIS	26 October 1994 (aged 28)	49	11	United-States Seattle Sounders FC
+17	MF	Cristian ROLDAN	3 June 1995 (aged 27)	32	0	United-States Seattle Sounders FC
+18	DF	Shaquell MOORE	2 November 1996 (aged 26)	15	1	United-States Nashville SC
+19	FW	Haji WRIGHT	27 March 1998 (aged 24)	3	1	Turkey Antalyaspor
+20	DF	Cameron CARTER-VICKERS	31 December 1997 (aged 24)	11	0	Scotland Celtic
+21	FW	Tim WEAH	22 February 2000 (aged 22)	25	3	France Lille
+22	DF	DeAndre YEDLIN	9 July 1993 (aged 29)	75	0	United-States Inter Miami CF
+23	MF	Kellyn PERRY-ACOSTA	24 July 1995 (aged 27)	53	2	United-States Los Angeles FC
+24	FW	Josh SARGENT	20 February 2000 (aged 22)	20	5	England Norwich City
+25	GK	Sean JOHNSON	31 May 1989 (aged 33)	10	0	United-States New York City FC
+26	DF	Joe SCALLY	31 December 2002 (aged 19)	3	0	Germany Borussia Monchengladbach
+Wales
+1	GK	Wayne HENNESSEY	24 January 1987 (aged 35)	106	0	England Nottingham Forest
+2	DF	Chris GUNTER	21 July 1989 (aged 33)	109	0	England AFC Wimbledon
+3	DF	Neco WILLIAMS	13 April 2001 (aged 21)	23	2	England Nottingham Forest
+4	DF	Ben DAVIES	24 April 1993 (aged 29)	74	1	England Tottenham Hotspur
+5	DF	Chris MEPHAM	5 November 1997 (aged 25)	33	0	England Bournemouth
+6	DF	Joe RODON	22 October 1997 (aged 25)	30	0	France Rennes
+7	MF	Joe ALLEN	14 March 1990 (aged 32)	72	2	Wales Swansea City
+8	MF	Harry WILSON	22 March 1997 (aged 25)	39	5	England Fulham
+9	FW	Brennan JOHNSON	23 May 2001 (aged 21)	15	2	England Nottingham Forest
+10	MF	Aaron RAMSEY	26 December 1990 (aged 31)	75	20	France Nice
+11	FW	Gareth BALE (captain)	16 July 1989 (aged 33)	108	40	United-States Los Angeles FC
+12	GK	Danny WARD	22 June 1993 (aged 29)	26	0	England Leicester City
+13	FW	Kieffer MOORE	8 August 1992 (aged 30)	28	9	England Bournemouth
+14	DF	Connor ROBERTS	23 September 1995 (aged 27)	41	3	England Burnley
+15	DF	Ethan AMPADU	14 September 2000 (aged 22)	37	0	Italy Spezia
+16	MF	Joseff MORRELL	3 January 1997 (aged 25)	30	0	England Portsmouth
+17	DF	Tom LOCKYER	3 December 1994 (aged 27)	14	0	England Luton Town
+18	MF	Jonathan WILLIAMS	9 October 1993 (aged 29)	33	2	England Swindon Town
+19	FW	Mark HARRIS	29 December 1998 (aged 23)	5	0	Wales Cardiff City
+20	FW	Daniel JAMES	10 November 1997 (aged 25)	38	5	England Fulham
+21	GK	Adam DAVIES	17 July 1992 (aged 30)	4	0	England Sheffield United
+22	MF	Sorba THOMAS	25 January 1999 (aged 23)	6	0	England Huddersfield Town
+23	MF	Dylan LEVITT	17 November 2000 (aged 22)	13	0	Scotland Dundee United
+24	DF	Ben CABANGO	30 May 2000 (aged 22)	5	0	Wales Swansea City
+25	MF	Rubin COLWILL	27 April 2002 (aged 20)	7	1	Wales Cardiff City
+26	MF	Matt SMITH	22 November 1999 (aged 22)	19	0	England Milton Keynes Dons
+Argentina
+1	GK	Franco ARMANI	16 October 1986 (aged 36)	18	0	Argentina River Plate
+2	DF	Juan FOYTH	12 January 1998 (aged 24)	16	0	Spain Villarreal
+3	DF	Nicolas TAGLIAFICO	31 August 1992 (aged 30)	42	0	France Lyon
+4	DF	Gonzalo MONTIEL	1 January 1997 (aged 25)	18	0	Spain Sevilla
+5	MF	Leandro PAREDES	29 June 1994 (aged 28)	46	4	Italy Juventus
+6	DF	German PEZZELLA	27 June 1991 (aged 31)	32	2	Spain Real Betis
+7	MF	Rodrigo DE PAUL	24 May 1994 (aged 28)	44	2	Spain Atletico Madrid
+8	MF	Marcos ACUNA	28 October 1991 (aged 31)	43	0	Spain Sevilla
+9	FW	Julian ALVAREZ	31 January 2000 (aged 22)	12	3	England Manchester City
+10	FW	Lionel MESSI (captain)	24 June 1987 (aged 35)	165	91	France Paris Saint-Germain
+11	FW	Angel DI MARIA	14 February 1988 (aged 34)	124	27	Italy Juventus
+12	GK	Geronimo Rulli	20 May 1992 (aged 30)	4	0	Spain Villarreal
+13	DF	Cristian ROMERO	27 April 1998 (aged 24)	12	1	England Tottenham Hotspur
+14	MF	Exequiel PALACIOS	5 October 1998 (aged 24)	20	0	Germany Bayer Leverkusen
+15	FW	Angel CORREA	9 March 1995 (aged 27)	22	3	Spain Atletico Madrid
+16	MF	Thiago ALMADA	26 April 2001 (aged 21)	1	0	United-States Atlanta United FC
+17	MF	Alejandro GOMEZ	15 February 1988 (aged 34)	15	3	Spain Sevilla
+18	MF	RODRIGUEZ GUIDO	12 April 1994 (aged 28)	26	1	Spain Real Betis
+19	DF	Nicolas OTAMENDI	12 February 1988 (aged 34)	93	4	Portugal Benfica
+20	MF	Alexis MAC ALLISTER	24 December 1998 (aged 23)	8	0	England Brighton & Hove Albion
+21	FW	Paulo DYBALA	15 November 1993 (aged 29)	34	3	Italy Roma
+22	FW	Lautaro MARTINEZ	22 August 1997 (aged 25)	40	21	Italy Internazionale
+23	GK	Damian MARTINEZ	2 September 1992 (aged 30)	19	0	England Aston Villa
+24	MF	Enzo FERNANDEZ	17 January 2001 (aged 21)	3	0	Portugal Benfica
+25	DF	Lisandro MARTINEZ	18 January 1998 (aged 24)	10	0	England Manchester United
+26	DF	Nahuel MOLINA	6 April 1998 (aged 24)	20	0	Spain Atletico Madrid
+Mexico
+1	GK	Alfredo TALAVERA	18 September 1982 (aged 40)	40	0	Mexico Juarez
+2	DF	Nestor ARAUJO	29 August 1991 (aged 31)	63	3	Mexico America
+3	DF	Cesar MONTES	24 February 1997 (aged 25)	30	1	Mexico Monterrey
+4	DF	Edson ALVAREZ	24 October 1997 (aged 25)	58	3	Netherlands Ajax
+5	DF	Johan VASQUEZ	22 October 1998 (aged 24)	7	0	Italy Cremonese
+6	DF	Gerardo ARTEAGA	7 September 1998 (aged 24)	17	1	Belgium Genk
+7	MF	Luis ROMO	5 June 1995 (aged 27)	27	1	Mexico Monterrey
+8	MF	Carlos RODRIGUEZ	3 January 1997 (aged 25)	36	0	Mexico Cruz Azul
+9	FW	Raul JIMENEZ	5 May 1991 (aged 31)	95	29	England Wolverhampton Wanderers
+10	FW	Alexis VEGA	25 November 1997 (aged 24)	22	6	Mexico Guadalajara
+11	FW	Rogelio FUNES MORI	5 March 1991 (aged 31)	16	6	Mexico Monterrey
+12	GK	Rodolfo COTA	3 July 1987 (aged 35)	8	0	Mexico Leon
+13	GK	Guillermo OCHOA	13 July 1985 (aged 37)	131	0	Mexico America
+14	MF	Erick GUTIERREZ	15 June 1995 (aged 27)	34	1	Netherlands PSV Eindhoven
+15	DF	Hector MORENO	17 January 1988 (aged 34)	128	5	Mexico Monterrey
+16	MF	Hector HERRERA	19 April 1990 (aged 32)	102	10	United-States Houston Dynamo FC
+17	FW	Orbelin PINEDA	24 March 1996 (aged 26)	50	6	Greece AEK Athens
+18	MF	Andres GUARDADO (captain)	28 September 1986 (aged 36)	178	28	Spain Real Betis
+19	DF	Jorge SANCHEZ	10 December 1997 (aged 24)	26	1	Netherlands Ajax
+20	FW	Henry MARTIN	18 November 1992 (aged 30)	27	6	Mexico America
+21	FW	Uriel ANTUNA	21 August 1997 (aged 25)	36	9	Mexico Cruz Azul
+22	FW	Hirving LOZANO	30 July 1995 (aged 27)	60	16	Italy Napoli
+23	DF	Jesus GALLARDO	15 August 1994 (aged 28)	78	1	Mexico Monterrey
+24	MF	Luis CHAVEZ	15 January 1996 (aged 26)	9	0	Mexico Pachuca
+25	FW	Roberto ALVARADO	7 September 1998 (aged 24)	31	4	Mexico Guadalajara
+26	DF	Kevin ALVAREZ	15 January 1999 (aged 23)	8	0	Mexico Pachuca
+Poland
+1	GK	Wojciech SZCZESNY	18 April 1990 (aged 32)	66	0	Italy Juventus
+2	DF	Matty CASH	7 August 1997 (aged 25)	7	1	England Aston Villa
+3	DF	Artur JEDRZEJCZYK	4 November 1987 (aged 35)	40	3	Poland Legia Warsaw
+4	DF	Mateusz WIETESKA	11 February 1997 (aged 25)	2	0	France Clermont
+5	DF	Jan BEDNAREK	12 April 1996 (aged 26)	45	1	England Aston Villa
+6	MF	Krystian BIELIK	4 January 1998 (aged 24)	5	0	England Birmingham City
+7	FW	Arkadiusz MILIK	28 February 1994 (aged 28)	64	16	Italy Juventus
+8	MF	Damian SZYMANSKI	16 June 1995 (aged 27)	9	1	Greece AEK Athens
+9	FW	Robert LEWANDOWSKI (captain)	21 August 1988 (aged 34)	134	76	Spain Barcelona
+10	MF	Grzegorz KRYCHOWIAK	29 January 1990 (aged 32)	94	5	Saudi-Arabia Al-Shabab
+11	MF	Kamil GROSICKI	8 June 1988 (aged 34)	87	17	Poland Pogon Szczecin
+12	GK	Lukasz SKORUPSKI	5 May 1991 (aged 31)	8	0	Italy Bologna
+13	MF	Jakub KAMINSKI	5 June 2002 (aged 20)	4	1	Germany VfL Wolfsburg
+14	DF	Jakub KIWIOR	15 February 2000 (aged 22)	5	0	Italy Spezia
+15	DF	Kamil GLIK	3 February 1988 (aged 34)	99	6	Italy Benevento
+16	FW	Karol SWIDERSKI	23 January 1997 (aged 25)	18	8	United-States Charlotte FC
+17	MF	SSzymon ZURKOWSKI	25 September 1997 (aged 25)	7	0	Italy Fiorentina
+18	DF	Bartosz BERESZYNSKI	12 July 1992 (aged 30)	46	0	Italy Sampdoria
+19	MF	Sebastian SZYMANSKI	10 May 1999 (aged 23)	18	1	Netherlands Feyenoord
+20	MF	Piotr ZIELINSKI	20 May 1994 (aged 28)	74	9	Italy Napoli
+21	MF	Nicola ZALEWSKI	23 January 2002 (aged 20)	7	0	Italy Roma
+22	GK	Kamil GRABARA	8 January 1999 (aged 23)	1	0	Denmark Copenhagen
+23	FW	Krzysztof PIATEK	1 July 1995 (aged 27)	25	11	Italy Salernitana
+24	MF	Przemyslaw FRANKOWSKI	12 April 1995 (aged 27)	26	1	France Lens
+25	DF	Robert GUMNY	4 June 1998 (aged 24)	5	0	Germany FC Augsburg
+26	MF	Michal SKORAS	15 February 2000 (aged 22)	1	0	Poland Lech Poznan
+Saudi Arabia
+1	GK	MOHAMMED ALYAMI	14 August 1997 (aged 25)	7	0	Saudi-Arabia Al-Ahli
+2	DF	SULTAN ALGHANNAM	6 May 1994 (aged 28)	24	0	Saudi-Arabia Al-Nassr
+3	DF	ABDULLAH MADU	15 July 1993 (aged 29)	15	0	Saudi-Arabia Al-Nassr
+4	DF	Abdulelah ALAMRI	15 January 1997 (aged 25)	20	1	Saudi-Arabia Al-Nassr
+5	DF	ALI ALBULAYHI	21 November 1989 (aged 32)	37	0	Saudi-Arabia Al-Hilal
+6	DF	MOHAMMED ALBURAYK	15 September 1992 (aged 30)	40	1	Saudi-Arabia Al-Hilal
+7	MF	SALMAN ALFARAJ (captain)	1 August 1989 (aged 33)	70	8	Saudi-Arabia Al-Hilal
+8	MF	ABDULELAH ALMALKI	11 October 1994 (aged 28)	27	0	Saudi-Arabia Al-Hilal
+9	FW	FERAS ALBRIKAN	14 May 2000 (aged 22)	26	6	Saudi-Arabia Al-Fateh
+10	FW	SALEM ALDAWSARI	19 August 1991 (aged 31)	71	17	Saudi-Arabia Al-Hilal
+11	FW	SALEH ALSHEHRI	1 November 1993 (aged 29)	20	10	Saudi-Arabia Al-Hilal
+12	DF	SAUD ABDULHAMID	18 July 1999 (aged 23)	23	1	Saudi-Arabia Al-Hilal
+13	DF	YASSER ALSHAHRANI	25 May 1992 (aged 30)	72	2	Saudi-Arabia Al-Hilal
+14	MF	ABDULLAH OTAYF	3 August 1992 (aged 30)	45	1	Saudi-Arabia Al-Hilal
+15	MF	ALI ALHASSAN	4 March 1997 (aged 25)	13	1	Saudi-Arabia Al-Nassr
+16	MF	Sami ALNAJI	7 February 1997 (aged 25)	17	2	Saudi-Arabia Al-Nassr
+17	DF	Hassan ALTAMBAKTI	9 February 1999 (aged 23)	19	0	Saudi-Arabia Al-Shabab
+18	MF	NAWAF AL ABID	26 January 1990 (aged 32)	55	8	Saudi-Arabia Al-Shabab
+19	FW	HATAN BAHBRI	16 July 1992 (aged 30)	41	4	Saudi-Arabia Al-Shabab
+20	FW	ABDULRAHMAN ALOBUD	1 June 1995 (aged 27)	3	0	Saudi-Arabia Al-Ittihad
+21	GK	MOHAMMED ALOWAIS	10 October 1991 (aged 31)	42	0	Saudi-Arabia Al-Hilal
+22	GK	NAWAF ALAQIDI	10 May 2000 (aged 22)	0	0	Saudi-Arabia Al-Nassr
+23	MF	MOHAMED KANNO	22 September 1994 (aged 28)	38	1	Saudi-Arabia Al-Hilal
+24	MF	Nasser ALDAWSARI	19 December 1998 (aged 23)	10	0	Saudi-Arabia Al-Hilal
+25	FW	HAITHAM ASIRI	25 March 2001 (aged 21)	8	1	Saudi-Arabia Al-Ahli
+26	MF	RIYADH SHARAHILI	28 April 1993 (aged 29)	5	0	Saudi-Arabia Abha
+Australia
+1	GK	Mathew RYAN (captain)	8 April 1992 (aged 30)	75	0	Denmark Copenhagen
+2	DF	Milos DEGENEK	28 April 1994 (aged 28)	38	1	United-States Columbus Crew
+3	DF	Nathaniel ATKINSON	13 June 1999 (aged 23)	5	0	Scotland Heart of Midlothian
+4	DF	Kye ROWLES	24 June 1998 (aged 24)	3	0	Scotland Heart of Midlothian
+5	DF	Fran KARACIC	12 May 1996 (aged 26)	11	1	Italy Brescia
+6	FW	Marco TILIO	23 August 2001 (aged 21)	5	0	Australia Melbourne City
+7	FW	Mathew LECKIE	4 February 1991 (aged 31)	73	13	Australia Melbourne City
+8	DF	Bailey WRIGHT	28 July 1992 (aged 30)	27	2	England Sunderland
+9	FW	Jamie MacLAREN	29 July 1993 (aged 29)	26	8	Australia Melbourne City
+10	MF	Ajdin HRUSTIC	5 July 1996 (aged 26)	20	3	Italy Hellas Verona
+11	FW	Awer MABIL	15 September 1995 (aged 27)	29	8	Spain Cadiz
+12	GK	Andrew REDMAYNE	13 January 1989 (aged 33)	4	0	Australia Sydney FC
+13	MF	Aaron MOOY	15 September 1990 (aged 32)	53	7	Scotland Celtic
+14	MF	Riley McGREE	2 November 1998 (aged 24)	11	1	England Middlesbrough
+15	FW	Mitch DUKE	18 January 1991 (aged 31)	21	8	Japan Fagiano Okayama
+16	DF	Aziz BEHICH	16 December 1990 (aged 31)	53	2	Scotland Dundee United
+17	MF	Cameron DEVLIN	7 June 1998 (aged 24)	1	0	Scotland Heart of Midlothian
+18	GK	Danny VUKOVIC	27 March 1985 (aged 37)	4	0	Australia Central Coast Mariners
+19	DF	Harry SOUTTAR	22 October 1998 (aged 24)	10	6	England Stoke City
+20	DF	Thomas DENG	20 March 1997 (aged 25)	2	0	Japan Albirex Niigata
+21	FW	Garang KUOL	15 September 2004 (aged 18)	1	0	Australia Central Coast Mariners
+22	MF	Jackson IRVINE	7 March 1993 (aged 29)	49	7	Germany FC St. Pauli
+23	FW	Craig GOODWIN	16 December 1991 (aged 30)	10	1	Australia Adelaide United
+24	DF	Joel KING	30 October 2000 (aged 22)	4	0	Denmark OB
+25	FW	Jason CUMMINGS	1 August 1995 (aged 27)	1	1	Australia Central Coast Mariners
+26	MF	Keanu BACCUS	7 June 1998 (aged 24)	1	0	Scotland St Mirren
+Denmark
+1	GK	Kasper SCHMEICHEL	5 November 1986 (aged 36)	86	0	France Nice
+2	DF	Joachim ANDERSEN	31 May 1996 (aged 26)	19	0	England Crystal Palace
+3	DF	Victor NELSSON	14 October 1998 (aged 24)	7	0	Turkey Galatasaray
+4	DF	Simon KJAER (captain)	26 March 1989 (aged 33)	121	5	Italy Milan
+5	DF	Joakim MAEHLE	20 May 1997 (aged 25)	31	9	Italy Atalanta
+6	DF	Andreas CHRISTENSEN	10 April 1996 (aged 26)	58	2	Spain Barcelona
+7	MF	Mathias JENSEN	1 January 1996 (aged 26)	20	1	England Brentford
+8	MF	Thomas DELANEY	3 September 1991 (aged 31)	71	7	Spain Sevilla
+9	FW	Martin BRAITHWAITE	5 June 1991 (aged 31)	62	10	Spain Espanyol
+10	MF	Christian ERIKSEN	14 February 1992 (aged 30)	117	39	England Manchester United
+11	MF	Andreas SKOV OLSEN	29 December 1999 (aged 22)	23	8	Belgium Club Brugge
+12	FW	Kasper DOLBERG	6 October 1997 (aged 25)	37	11	Spain Sevilla
+13	DF	Rasmus KRISTENSEN	11 July 1997 (aged 25)	10	0	England Leeds United
+14	MF	Mikkel DAMSGAARD	3 July 2000 (aged 22)	18	4	England Brentford
+15	MF	Christian NORGAARD	10 March 1994 (aged 28)	17	1	England Brentford
+16	GK	Oliver CHRISTENSEN	22 March 1999 (aged 23)	1	0	Germany Hertha BSC
+17	DF	Jens STRYGER LARSEN	21 February 1991 (aged 31)	49	3	Turkey Trabzonspor
+18	DF	Daniel WASS	31 May 1989 (aged 33)	44	1	Denmark Brondby
+19	FW	Jonas WIND	7 February 1999 (aged 23)	15	5	Germany VfL Wolfsburg
+20	FW	Yussuf YURARY POULSEN	15 June 1994 (aged 28)	68	11	Germany RB Leipzig
+21	FW	Andreas CORNELIUS	16 March 1993 (aged 29)	41	9	Denmark Copenhagen
+22	GK	Frederik RONNOW	4 August 1992 (aged 30)	8	0	Germany Union Berlin
+23	MF	Pierre-Emile HOJBJERG	5 August 1995 (aged 27)	60	5	England Tottenham Hotspur
+24	MF	Robert SKOV	20 May 1996 (aged 26)	11	5	Germany 1899 Hoffenheim
+25	MF	Jesper LINDSTROM	29 February 2000 (aged 22)	6	1	Germany Eintracht Frankfurt
+26	DF	Alexander BAH	9 December 1997 (aged 24)	4	1	Portugal Benfica
+France
+1	GK	Hugo LLORIS (captain)	26 December 1986 (aged 35)	139	0	England Tottenham Hotspur
+2	DF	Benjamin PAVARD	28 March 1996 (aged 26)	46	2	Germany Bayern Munich
+3	DF	Axel DISASI	11 March 1998 (aged 24)	0	0	France Monaco
+4	DF	Raphael VARANE	25 April 1993 (aged 29)	87	5	England Manchester United
+5	DF	Jules KOUNDE	12 November 1998 (aged 24)	12	0	Spain Barcelona
+6	MF	Matteo GUENDOUZI	14 April 1999 (aged 23)	6	1	France Marseille
+7	FW	Antoine GRIEZMANN	21 March 1991 (aged 31)	110	42	Spain Atletico Madrid
+8	MF	Aurelien TCHOUAMENI	27 January 2000 (aged 22)	14	1	Spain Real Madrid
+9	FW	Olivier GIROUD	30 September 1986 (aged 36)	114	49	Italy Milan
+10	FW	Kylian MBAPPE	20 December 1998 (aged 23)	59	28	France Paris Saint-Germain
+11	FW	Ousmane DEMBELE	15 May 1997 (aged 25)	28	4	Spain Barcelona
+12	FW	Randal KOLO MUANI	5 December 1998 (aged 23)	2	0	Germany Eintracht Frankfurt
+13	MF	Youssouf Fofana	10 January 1999 (aged 23)	2	0	France Monaco
+14	MF	Adrien RABIOT	3 April 1995 (aged 27)	29	2	Italy Juventus
+15	MF	Jordan VERETOUT	1 March 1993 (aged 29)	5	0	France Marseille
+16	GK	Steve MANDANDA	28 March 1985 (aged 37)	34	0	France Rennes
+17	DF	William SALIBA	24 March 2001 (aged 21)	7	0	England Arsenal
+18	DF	Dayot UPAMECANO	27 October 1998 (aged 24)	7	1	Germany Bayern Munich
+19	FW	Karim Benzema	19 December 1987 (aged 34)	97	37	Spain Real Madrid
+20	FW	Kingsley COMAN	13 June 1996 (aged 26)	40	5	Germany Bayern Munich
+21	DF	Lucas HERNANDEZ	14 February 1996 (aged 26)	32	0	Germany Bayern Munich
+22	DF	Theo HERNANDEZ	6 October 1997 (aged 25)	7	1	Italy Milan
+23	GK	Alphonse AREOLA	27 February 1993 (aged 29)	5	0	England West Ham United
+24	DF	Ibrahima KONATE	25 May 1999 (aged 23)	2	0	England Liverpool
+25	MF	Eduardo CAMAVINGA	10 November 2002 (aged 20)	4	1	Spain Real Madrid
+26	FW	Marcus THURAM	6 August 1997 (aged 25)	4	0	Germany Borussia Monchengladbach
+Tunisia
+1	GK	Aymen MATHLOUTHI	14 September 1984 (aged 38)	73	0	Tunisia etoile du Sahel
+2	DF	Bilel IFA	9 March 1990 (aged 32)	37	0	Kuwait Kuwait SC
+3	DF	Montassar TALBI	26 May 1998 (aged 24)	23	1	France Lorient
+4	DF	Yassine MERIAH	2 July 1993 (aged 29)	61	3	Tunisia Esperance de Tunis
+5	MF	Nader GHANDRI	18 February 1995 (aged 27)	8	0	Tunisia Club Africain
+6	DF	Dylan BRONN	19 June 1995 (aged 27)	36	2	Italy Salernitana
+7	FW	Youssef MSAKNI (captain)	28 October 1990 (aged 32)	88	17	Qatar Al-Arabi
+8	MF	Hannibal MEJBRI	21 January 2003 (aged 19)	19	0	England Birmingham City
+9	FW	Issam JEBALI	25 December 1991 (aged 30)	10	2	Denmark OB
+10	FW	Wahbi KHAZRI	8 February 1991 (aged 31)	72	24	France Montpellier
+11	FW	Taha KHENISSI	6 January 1992 (aged 30)	48	9	Kuwait Kuwait SC
+12	DF	Ali MAALOUL	1 January 1990 (aged 32)	83	2	Egypt Al Ahly
+13	MF	Ferjani SASSI	18 March 1992 (aged 30)	78	6	Qatar Al-Duhail
+14	MF	Aissa LAIDOUNI	13 December 1996 (aged 25)	25	1	Hungary Ferencvaros
+15	MF	BEN ROMDHANE Ali	6 September 1999 (aged 23)	23	1	Tunisia Esperance de Tunis
+16	GK	Aymen DAHMEN	28 January 1997 (aged 25)	5	0	Tunisia CS Sfaxien
+17	MF	Ellyes SKHIRI	10 May 1995 (aged 27)	49	3	Germany 1. FC Koln
+18	MF	Ghaylen CHAALELI	28 February 1994 (aged 28)	31	1	Tunisia Esperance de Tunis
+19	FW	Seifeddine JAZIRI	12 February 1993 (aged 29)	29	10	Egypt Zamalek
+20	DF	Mohamed DRAGER	25 June 1996 (aged 26)	34	3	Switzerland Luzern
+21	DF	Wajdi KECHRIDA	5 November 1995 (aged 27)	19	0	Greece Atromitos
+22	GK	Bechir BEN SAID	29 November 1992 (aged 29)	10	0	Tunisia US Monastir
+23	FW	Naim SLITI	27 July 1992 (aged 30)	69	14	Saudi-Arabia Al-Ettifaq
+24	DF	Ali ABDI	20 December 1993 (aged 28)	10	2	France Caen
+25	FW	AAnis SLIMANE	16 March 2001 (aged 21)	25	4	Denmark Brondby
+26	GK	Mouez HASSEN	5 March 1995 (aged 27)	20	0	Tunisia Club Africain
+Costa Rica
+1	GK	Keylor NAVAS	15 December 1986 (aged 35)	107	0	France Paris Saint-Germain
+2	MF	Daniel CHACON	11 April 2001 (aged 21)	8	0	Costa-Rica Cartagines
+3	DF	Juan VARGAS	      6 June 1995 (aged 27)	12	1	Colombia Millonarios
+4	DF	Keysher FULLER	12 July 1994 (aged 28)	31	2	Costa-Rica Herediano
+5	MF	Celso BORGES	27 May 1988 (aged 34)	155	27	Costa-Rica Alajuelense
+6	DF	Oscar DUARTE	3 June 1989 (aged 33)	71	4	Saudi-Arabia Al-Wehda
+7	FW	Anthony CONTRERAS	29 January 2000 (aged 22)	9	2	Costa-Rica Herediano
+8	DF	Bryan OVIEDO	18 February 1990 (aged 32)	76	2	United-States Real Salt Lake
+9	MF	Jewison BENNETTE	15 June 2004 (aged 18)	7	2	England Sunderland
+10	MF	Bryan RUIZ (captain)	18 August 1985 (aged 37)	146	29	Costa-Rica Alajuelense
+11	FW	Johan VENEGAS	27 November 1988 (aged 33)	82	11	Costa-Rica Alajuelense
+12	FW	Joel CAMPBELL	26 June 1992 (aged 30)	119	25	Mexico Leon
+13	MF	Gerson TORRES	28 August 1997 (aged 25)	13	1	Costa-Rica Herediano
+14	MF	Youstin SALAS	17 June 1996 (aged 26)	4	0	Costa-Rica Saprissa
+15	DF	Francisco CALVO	8 July 1992 (aged 30)	75	8	Turkey Konyaspor
+16	DF	Carlos MARTINEZ	30 March 1999 (aged 23)	7	0	Costa-Rica San Carlos
+17	MF	Yeltsin TEJEDA	17 March 1992 (aged 30)	73	0	Costa-Rica Herediano
+18	GK	Esteban ALVARADO	28 April 1989 (aged 33)	25	0	Costa-Rica Herediano
+19	DF	Kendall WASTON	1 January 1988 (aged 34)	63	9	Costa-Rica Saprissa
+20	MF	Brandon AGUILERA	28 June 2003 (aged 19)	4	0	Costa-Rica Guanacasteca
+21	MF	Douglas LOPEZ	21 September 1998 (aged 24)	3	0	Costa-Rica Herediano
+22	DF	Ronald MATARRITA	9 July 1994 (aged 28)	52	3	United-States FC Cincinnati
+23	GK	Patrick SEQUEIRA	1 March 1999 (aged 23)	2	0	Spain Lugo
+24	MF	Roan WILSON 	1 May 2002 (aged 20)	3	0	Costa-Rica Municipal Grecia
+25	MF	Anthony HERNANDEZ	11 October 2001 (aged 21)	3	1	Costa-Rica Puntarenas
+26	MF	Alvaro ZAMORA	9 March 2002 (aged 20)	3	0	Costa-Rica Saprissa
+Germany
+1	GK	Manuel NEUER (captain)	27 March 1986 (aged 36)	114	0	Germany Bayern Munich
+2	DF	Antonio RUEDIGER	3 March 1993 (aged 29)	54	2	Spain Real Madrid
+3	DF	David RAUM	22 April 1998 (aged 24)	12	0	Germany RB Leipzig
+4	DF	Matthias GINTER	19 January 1994 (aged 28)	47	2	Germany SC Freiburg
+5	DF	Thilo KEHRER	21 September 1996 (aged 26)	23	0	England West Ham United
+6	MF	Joshua KIMMICH	8 February 1995 (aged 27)	71	5	Germany Bayern Munich
+7	FW	Kai HAVERTZ	11 June 1999 (aged 23)	31	10	England Chelsea
+8	MF	Leon GORETZKA	6 February 1995 (aged 27)	45	14	Germany Bayern Munich
+9	FW	Niclas FUELLKRUG	9 February 1993 (aged 29)	1	1	Germany Werder Bremen
+10	FW	Serge GNABRY	14 July 1995 (aged 27)	36	20	Germany Bayern Munich
+11	MF	Niclas FUELLKRUG	3 June 1992 (aged 30)	63	17	Germany Eintracht Frankfurt
+12	GK	Kevin TRAPP	8 July 1990 (aged 32)	6	0	Germany Eintracht Frankfurt
+13	MF	Thomas MUELLER	13 September 1989 (aged 33)	118	44	Germany Bayern Munich
+14	MF	Jamal MUSIALA	26 February 2003 (aged 19)	17	1	Germany Bayern Munich
+15	DF	Niklas SUELE	3 September 1995 (aged 27)	42	1	Germany Borussia Dortmund
+16	DF	Lukas KLOSTERMANN	3 June 1996 (aged 26)	19	0	Germany RB Leipzig
+17	MF	Julian BRANDT	2 May 1996 (aged 26)	39	3	Germany Borussia Dortmund
+18	MF	Jonas HOFMANN	14 July 1992 (aged 30)	17	4	Germany Borussia Monchengladbach
+19	MF	Leroy SANE	11 January 1996 (aged 26)	48	11	Germany Bayern Munich
+20	DF	Christian GUENTER	28 February 1993 (aged 29)	7	0	Germany SC Freiburg
+21	MF	Ilkay GUENDOGAN	24 October 1990 (aged 32)	63	16	England Manchester City
+22	GK	Marc-Andre TER STEGEN	30 April 1992 (aged 30)	30	0	Spain Barcelona
+23	DF	Nico SCHLOTTERBECK	1 December 1999 (aged 22)	6	0	Germany Borussia Dortmund
+24	FW	Karim ADEYEMI	18 January 2002 (aged 20)	4	1	Germany Borussia Dortmund
+25	DF	Armel BELLA KOTCHAP	11 December 2001 (aged 20)	2	0	England Southampton
+26	FW	Youssoufa MOUKOKO	20 November 2004 (aged 18)	1	0	Germany Borussia Dortmund
+Japan
+1	GK	Eiji KAWASHIMA	20 March 1983 (aged 39)	95	0	France Strasbourg
+2	DF	Miki YAMANE	22 December 1993 (aged 28)	15	2	Japan Kawasaki Frontale
+3	DF	Shogo TANIGUCHI	15 July 1991 (aged 31)	14	0	Japan Kawasaki Frontale
+4	DF	Kou ITAKURA	27 January 1997 (aged 25)	13	1	Germany Borussia Monchengladbach
+5	DF	Yuto NAGATOMO	12 September 1986 (aged 36)	138	4	Japan FC Tokyo
+6	MF	Wataru ENDO	9 February 1993 (aged 29)	43	2	Germany VfB Stuttgart
+7	MF	Gaku SHIBASAKI	28 May 1992 (aged 30)	60	3	Spain Leganes
+8	MF	Ritsu DOAN	16 June 1998 (aged 24)	29	3	Germany SC Freiburg
+9	MF	Kaoru MITOMA	20 May 1997 (aged 25)	9	5	England Brighton & Hove Albion
+10	MF	Takuminuary 1995 (aged 27)	44	17	France Monaco
+11	MF	Takefusa KUBO	4 June 2001 (aged 21)	20	1	Spain Real Sociedad
+12	GK	Shuichi GONDA	3 March 1989 (aged 33)	34	0	Japan Shimizu S-Pulse
+13	MF	Hidemasa MORITA	10 May 1995 (aged 27)	17	2	Portugal Sporting CP
+14	MF	Junya ITO	9 March 1993 (aged 29)	38	9	France Reims
+15	MF	Daichi KAMADA	5 August 1996 (aged 26)	22	6	Germany Eintracht Frankfurt
+16	DF	Takehiro TOMIYASU	5 November 1998 (aged 24)	29	1	England Arsenal
+17	MF	Ao TANAKA	10 September 1998 (aged 24)	15	2	Germany Fortuna Dusseldorf
+18	FW	Takuma ASANO	10 November 1994 (aged 28)	37	7	Germany VfL Bochum
+19	DF	Hiroki SAKAI	12 April 1990 (aged 32)	72	1	Japan Urawa Red Diamonds
+20	FW	Shuto MACHINO	30 September 1999 (aged 23)	4	3	Japan Shonan Bellmare
+21	FW	Ayase UEDA	28 August 1998 (aged 24)	11	0	Belgium Cercle Brugge
+22	DF	Maya YOSHIDA (captain)	24 August 1988 (aged 34)	122	12	Germany Schalke 04
+23	GK	Daniel SCHMIDT	3 February 1992 (aged 30)	11	0	Belgium Sint-Truiden
+24	MF	Yuki SOMA	25 February 1997 (aged 25)	8	4	Japan Nagoya Grampus
+25	FW	Daizen MAEDA	20 October 1997 (aged 25)	8	1	Scotland Celtic
+26	DF	Hiroki ITO	12 May 1999 (aged 23)	6	0	Germany VfB Stuttgart
+Spain
+1	GK	Robert SANCHEZ	18 November 1997 (aged 25)	2	0	England Brighton & Hove Albion
+2	DF	Cesar AZPILICUETA	28 August 1989 (aged 33)	42	1	England Chelsea
+3	DF	Eric GARCIA	9 January 2001 (aged 21)	19	0	Spain Barcelona
+4	DF	Pau TORRES	16 January 1997 (aged 25)	22	1	Spain Villarreal
+5	MF	Sergio BUSQUETS (captain)	16 July 1988 (aged 34)	139	2	Spain Barcelona
+6	MF	Marcos LLORENTE	30 January 1995 (aged 27)	17	0	Spain Atletico Madrid
+7	FW	Alvaro MORATA	23 October 1992 (aged 30)	57	27	Spain Atletico Madrid
+8	MF	KOKE	8 January 1992 (aged 30)	68	0	Spain Atletico Madrid
+9	MF	GAVI	5 August 2004 (aged 18)	13	2	Spain Barcelona
+10	FW	Marco ASENSIO	21 January 1996 (aged 26)	31	1	Spain Real Madrid
+11	FW	Ferran TORRES	29 February 2000 (aged 22)	31	13	Spain Barcelona
+12	FW	Nico WILLIAMS	12 July 2002 (aged 20)	3	1	Spain Athletic Bilbao
+13	GK	David RAYA	15 September 1995 (aged 27)	2	0	England Brentford
+14	DF	Alejandro BALDE	18 October 2003 (aged 19)	0	0	Spain Barcelona
+15	DF	Hugo GUILLAMON	31 January 2000 (aged 22)	3	1	Spain Valencia
+16	MF	RODRI	22 June 1996 (aged 26)	35	1	England Manchester City
+17	FW	Yeremy PINO	20 October 2002 (aged 20)	7	1	Spain Villarreal
+18	DF	Jordi ALBA	21 March 1989 (aged 33)	87	9	Spain Barcelona
+19	MF	Carlos SOLER	2 January 1997 (aged 25)	12	3	France Paris Saint-Germain
+20	DF	Dani CARVAJAL	11 January 1992 (aged 30)	31	0	Spain Real Madrid
+21	FW	Dani OLMO	7 May 1998 (aged 24)	25	4	Germany RB Leipzig
+22	FW	Pablo SARABIA	11 May 1992 (aged 30)	25	9	France Paris Saint-Germain
+23	GK	Unai SIMON	11 June 1997 (aged 25)	27	0	Spain Athletic Bilbao
+24	DF	Aymeric LAPORTE	27 May 1994 (aged 28)	16	1	England Manchester City
+25	FW	Ansu FATI	31 October 2002 (aged 20)	5	2	Spain Barcelona
+26	MF	Pedri GONZALEZ	25 November 2002 (aged 19)	14	0	Spain Barcelona
+Belgium
+1	GK	Thibaut COURTOIS	11 May 1992 (aged 30)	97	0	Spain Real Madrid
+2	DF	Toby ALDERWEIRELD	2 March 1989 (aged 33)	124	5	Belgium Antwerp
+3	DF	Arthur THEATE	25 May 2000 (aged 22)	4	0	France Rennes
+4	DF	Wout FAES	3 April 1998 (aged 24)	1	0	England Leicester City
+5	DF	Jan VERTONGHEN	24 April 1987 (aged 35)	142	9	Belgium Anderlecht
+6	MF	Axel WITSEL	12 January 1989 (aged 33)	127	12	Spain Atletico Madrid
+7	MF	Kevin DE BRUYNE	28 June 1991 (aged 31)	94	25	England Manchester City
+8	MF	Youri TIELEMANS	7 May 1997 (aged 25)	55	5	England Leicester City
+9	FW	Romelu LUKAKU	13 May 1993 (aged 29)	102	68	Italy Internazionale
+10	FW	Eden HAZARD (captain)	7 January 1991 (aged 31)	123	33	Spain Real Madrid
+11	FW	Yannick CARRASCO	4 September 1993 (aged 29)	60	8	Spain Atletico Madrid
+12	GK	Simon MIGNOLET	6 March 1988 (aged 34)	35	0	Belgium Club Brugge
+13	GK	Koen CASTEELS	25 June 1992 (aged 30)	4	0	Germany VfL Wolfsburg
+14	FW	Dries MERTENS	6 May 1987 (aged 35)	107	21	Turkey Galatasaray
+15	MF	Thomas MEUNIER	12 September 1991 (aged 31)	59	8	Germany Borussia Dortmund
+16	MF	Thorgan HAZARD	29 March 1993 (aged 29)	45	9	Germany Borussia Dortmund
+17	FW	Leandro TROSSARD	4 December 1994 (aged 27)	21	5	England Brighton & Hove Albion
+18	MF	Amadou ONANA	16 August 2001 (aged 21)	2	0	England Everton
+19	DF	Leander DENDONCKER	15 April 1995 (aged 27)	29	1	England Aston Villa
+20	MF	Hans VANAKEN	24 August 1992 (aged 30)	23	5	Belgium Club Brugge
+21	MF	Timothy CASTAGNE	5 December 1995 (aged 26)	26	2	England Leicester City
+22	FW	DE KETELAERE	10 March 2001 (aged 21)	10	1	Italy Milan
+23	FW	Michy BATSHUAYI	2 October 1993 (aged 29)	48	26	Turkey Fenerbahce
+24	FW	Lois OPENDA	16 February 2000 (aged 22)	5	2	France Lens
+25	FW	Jeremy DOKU	27 May 2002 (aged 20)	11	2	France Rennes
+26	DF	Zeno DEBAST	24 October 2003 (aged 19)	3	0	Belgium Anderlecht
+Canada
+1	GK	Dayne St. Clair	9 May 1997 (aged 25)	2	0	United-States Minnesota United FC
+2	DF	Alistair JOHNSTON	8 October 1998 (aged 24)	30	1	Canada CF Montreal
+3	DF	Sam Adekugbe	16 January 1995 (aged 27)	34	1	Turkey Hatayspor
+4	DF	Kamal MILLER	16 May 1997 (aged 25)	29	0	Canada CF Montreal
+5	DF	Steven VITORIA	11 January 1987 (aged 35)	35	4	Portugal Chaves
+6	MF	Samuel PIETTE	12 November 1994 (aged 28)	66	0	Canada CF Montreal
+7	MF	Stephen EUSTAQUIO	21 December 1996 (aged 25)	26	3	Portugal Porto
+8	MF	Liam FRASER	13 February 1998 (aged 24)	15	0	Belgium Deinze
+9	FW	Lucas CAVALLINI	28 December 1992 (aged 29)	34	18	Canada Vancouver Whitecaps FC
+10	MF	Junior HOILETT	5 June 1990 (aged 32)	50	14	England Reading
+11	FW	Tajon BUCHANAN	8 February 1999 (aged 23)	26	4	Belgium Club Brugge
+12	FW	Ike UGBO	21 September 1998 (aged 24)	8	0	France Troyes
+13	MF	Atiba HUTCHINSON (captain)	8 February 1983 (aged 39)	98	9	Turkey Beşiktaş
+14	MF	Mark-Anthony KAYE	2 December 1994 (aged 27)	38	2	Canada Toronto FC
+15	MF	Ismael KONE	16 June 2002 (aged 20)	6	1	Canada CF Montreal
+16	GK	James PANTEMIS	21 February 1997 (aged 25)	0	0	Canada CF Montreal
+17	FW	Cyle LARIN	17 April 1995 (aged 27)	55	25	Belgium Club Brugge
+18	GK	Milan BORJAN	23 October 1987 (aged 35)	68	0	Serbia Red Star Belgrade
+19	FW	Alphonso DAVIES	2 November 2000 (aged 22)	34	12	Germany Bayern Munich
+20	FW	Jonathan DAVID	14 January 2000 (aged 22)	35	22	France Lille
+21	MF	Jonathan OSORIO	12 June 1992 (aged 30)	57	7	Canada Toronto FC
+22	DF	Richie LARYEA	7 January 1995 (aged 27)	34	1	Canada Toronto FC
+23	MF	Liam MILLAR	27 September 1999 (aged 23)	16	0	Switzerland Basel
+24	MF	David WOTHERSPOON	16 January 1990 (aged 32)	10	1	Scotland St Johnstone
+25	DF	Derek CORNELIUS	25 November 1997 (aged 24)	14	0	Greece Panetolikos
+26	DF	Joel WATERMAN	24 January 1996 (aged 26)	2	0	Canada CF Montreal
+Croatia 
+1	GK	Dominik LIVAKOVIC	9 January 1995 (aged 27)	34	0	Croatia Dinamo Zagreb
+2	DF	Josip STANISIC	2 April 2000 (aged 22)	7	0	Germany Bayern Munich
+3	DF	Borna BARISIC	10 November 1992 (aged 30)	28	1	Scotland Rangers
+4	FW	Ivan PERISIC	2 February 1989 (aged 33)	116	32	England Tottenham Hotspur
+5	DF	Martin ERLIC	24 January 1998 (aged 24)	4	0	Italy Sassuolo
+6	DF	Dejan LOVREN	5 July 1989 (aged 33)	72	5	Russia Zenit Saint Petersburg
+7	MF	Lovro MAJER 	17 January 1998 (aged 24)	11	3	France Rennes
+8	MF	Mateo KOVACIC	6 May 1994 (aged 28)	84	3	England Chelsea
+9	FW	Andrej KRAMARIC	19 June 1991 (aged 31)	74	20	Germany 1899 Hoffenheim
+10	MF	Luka MODRIC (captain)	9 September 1985 (aged 37)	155	23	Spain Real Madrid
+11	MF	Marcelo BROZOVIC	16 November 1992 (aged 30)	77	7	Italy Internazionale
+12	GK	Ivo GRBIC	18 January 1996 (aged 26)	2	0	Spain Atletico Madrid
+13	MF	Nikola VLASIC	4 October 1997 (aged 25)	42	7	Italy Torino
+14	FW	Marko LIVAJA	26 August 1993 (aged 29)	14	3	Croatia Hajduk Split
+15	MF	Mario PASALIC	9 February 1995 (aged 27)	43	7	Italy Atalanta
+16	FW	Bruno PETKOVIC	16 September 1994 (aged 28)	23	6	Croatia Dinamo Zagreb
+17	FW	Ante BUDIMIR	22 July 1991 (aged 31)	15	1	Spain Osasuna
+18	FW	Mislav ORSIC	29 December 1992 (aged 29)	21	1	Croatia Dinamo Zagreb
+19	DF	Borna SOSA	21 January 1998 (aged 24)	8	1	Germany VfB Stuttgart
+20	DF	Josko GVARDIOL	23 January 2002 (aged 20)	12	1	Germany RB Leipzig
+21	DF	Domagoj VIDA	29 April 1989 (aged 33)	100	4	Greece AEK Athens
+22	DF	Josip JURANOVIC	16 August 1995 (aged 27)	21	0	Scotland Celtic
+23	GK	Ivica IVUSIC	1 February 1995 (aged 27)	5	0	Croatia Osijek
+24	DF	Josip SUTALO	28 February 2000 (aged 22)	3	0	Croatia Dinamo Zagreb
+25	MF	Luka SUCIC	8 September 2002 (aged 20)	4	0	Austria Red Bull Salzburg
+26	MF	Kristijan JAKIC	14 May 1997 (aged 25)	4	0	Germany Eintracht Frankfurt
+Morocco 
+1	GK	Yassine BOUNOU	5 April 1991 (aged 31)	46	0	Spain Sevilla
+2	DF	Achraf HAKIMI	4 November 1998 (aged 24)	54	8	France Paris Saint-Germain
+3	DF	Noussair MAZRAOUI	14 November 1997 (aged 25)	15	2	Germany Bayern Munich
+4	MF	Sofyan AMRABAT	21 August 1996 (aged 26)	39	0	Italy Fiorentina
+5	DF	Nayef AGUERD	30 March 1996 (aged 26)	22	1	England West Ham United
+6	DF	Romain SAISS (captain)	26 March 1990 (aged 32)	66	1	Turkey Beşiktaş
+7	MF	Hakim ZIYECH	19 March 1993 (aged 29)	43	18	England Chelsea
+8	MF	Azzedine OUNAHI	19 April 2000 (aged 22)	10	2	France Angers
+9	FW	Abderrazak HAMDALLAH	17 December 1990 (aged 31)	18	6	Saudi-Arabia Al-Ittihad
+10	MF	Anass ZAROURY	7 November 2000 (aged 22)	1	0	England Burnley
+11	FW	Abdelhamid SABIRI	28 November 1996 (aged 25)	2	1	Italy Sampdoria
+12	GK	Monir EL KAJOUI	10 May 1989 (aged 33)	43	0	Saudi-Arabia Al-Wehda
+13	MF	Ilias CHAIR	30 October 1997 (aged 25)	11	1	England Queens Park Rangers
+14	MF	Zakaria ABOUKHLAL	18 February 2000 (aged 22)	12	2	France Toulouse
+15	MF	Selim AMALLAH	15 November 1996 (aged 26)	24	4	Belgium Standard Liège
+16	FW	Abde EZZALZOULI	17 December 2001 (aged 20)	2	0	Spain Osasuna
+17	MF	Sofiane BOUFAL	17 September 1993 (aged 29)	32	6	France Angers
+18	DF	Jawad EL YAMIQ	29 February 1992 (aged 30)	12	2	Spain Valladolid
+19	FW	Youssef EN NESYRI	1 June 1997 (aged 25)	50	15	Spain Sevilla
+20	DF	Achraf DARI	6 May 1999 (aged 23)	4	0	France Brest
+21	FW	Walid CHEDDIRA	22 January 1998 (aged 24)	2	0	Italy Bari
+22	GK	Ahmed TAGNAOUTI	5 April 1996 (aged 26)	3	0	Morocco Wydad AC
+23	MF	Bilal EL KHANNOUSS	10 May 2004 (aged 18)	0	0	Belgium Genk
+24	DF	Badr BENOUN	30 September 1993 (aged 29)	3	0	Qatar Qatar SC
+25	DF	Yahya ATTIAT-ALLAH	2 March 1995 (aged 27)	2	0	Morocco Wydad AC
+26	MF	Yahya JABRANE	18 June 1991 (aged 31)	5	0	Morocco Wydad AC
+Brazil 
+1	GK	ALISSON	2 October 1992 (aged 30)	57	0	England Liverpool
+2	DF	DANILO	15 July 1991 (aged 31)	46	1	Italy Juventus
+3	DF	THIAGO SILVA (captain)	22 September 1984 (aged 38)	109	7	England Chelsea
+4	DF	MARQUINHOS	14 May 1994 (aged 28)	71	5	France Paris Saint-Germain
+5	MF	CASEMIRO	23 February 1992 (aged 30)	65	5	England Manchester United
+6	DF	ALEX SANDRO	26 January 1991 (aged 31)	37	2	Italy Juventus
+7	MF	LUCAS PAQUETA	27 August 1997 (aged 25)	35	7	England West Ham United
+8	MF	FRED	5 March 1993 (aged 29)	28	0	England Manchester United
+9	FW	RICHARLISON	10 May 1997 (aged 25)	38	17	England Tottenham Hotspur
+10	FW	NEYMAR	5 February 1992 (aged 30)	121	75	France Paris Saint-Germain
+11	FW	RAPHINHA	14 December 1996 (aged 25)	11	5	Spain Barcelona
+12	GK	WEVERTON	13 December 1987 (aged 34)	8	0	Brazil Palmeiras
+13	DF	DANI ALVES	6 May 1983 (aged 39)	124	8	Mexico UNAM
+14	DF	EDER MILITAO	18 January 1998 (aged 24)	23	1	Spain Real Madrid
+15	MF	FABINHO	23 October 1993 (aged 29)	28	0	England Liverpool
+16	DF	ALEX TELLES	15 December 1992 (aged 29)	8	0	Spain Sevilla
+17	MF	BRUNO GUIMARAES	16 November 1997 (aged 25)	8	1	England Newcastle United
+18	FW	GABRIEL JESUS	3 April 1997 (aged 25)	56	19	England Arsenal
+19	FW	ANTONY	24 February 2000 (aged 22)	11	2	England Manchester United
+20	FW	VINICIUS JR	12 July 2000 (aged 22)	16	1	Spain Real Madrid
+21	FW	RODRYGO	9 January 2001 (aged 21)	7	1	Spain Real Madrid
+22	MF	EVERTON RIBEIRO	10 April 1989 (aged 33)	21	3	Brazil Flamengo
+23	GK	EDERSON	17 August 1993 (aged 29)	18	0	England Manchester City
+24	DF	BREMER	18 March 1997 (aged 25)	1	0	Italy Juventus
+25	FW	PEDRO	20 June 1997 (aged 25)	2	1	Brazil Flamengo
+26	FW	GABRIEL MARTINELLI	18 June 2001 (aged 21)	3	0	England Arsenal
+Cameroon
+1	GK	Brady NGAPANDOUETNBU	12 April 2003 (aged 19)	0	0	France Marseille
+2	DF	Jerome NGOM MBEKELI	30 September 1998 (aged 24)	2	0	Cameroon Colombe Sportive
+3	DF	Nicolas NKOULOU	27 March 1990 (aged 32)	79	2	Greece Aris
+4	DF	Christopher WOOH	18 September 2001 (aged 21)	4	0	France Rennes
+5	MF	Gael ONDOUA	4 November 1995 (aged 27)	4	0	Germany Hannover 96
+6	FW	Nicolas NGAMALEU	9 July 1994 (aged 28)	42	4	Russia Dynamo Moscow
+7	MF	Georges-Kevin NKOUDOU	13 February 1995 (aged 27)	3	0	Turkey Beşiktaş
+8	MF	Andre-Frank ZAMBO ANGUISSA	16 November 1995 (aged 27)	44	5	Italy Napoli
+9	FW	Jean-Pierre Nsame	1 May 1993 (aged 29)	4	0	Switzerland Young Boys
+10	FW	Vincent ABOUBAKAR (captain)	22 January 1992 (aged 30)	92	33	Saudi-Arabia Al-Nassr
+11	FW	Christian BASSOGOG	18 October 1995 (aged 27)	44	7	China Shanghai Shenhua
+12	FW	Karl TOKO EKAMBI	14 September 1992 (aged 30)	52	12	France Lyon
+13	FW	Eric Maxim CHOUPO-MOTING	23 March 1989 (aged 33)	70	20	Germany Bayern Munich
+14	MF	Samuel GOUET	14 December 1997 (aged 24)	22	0	Belgium Mechelen
+15	MF	Pierre KUNDE	26 July 1995 (aged 27)	33	1	Greece Olympiacos
+16	GK	Devis EPASSY	2 February 1993 (aged 29)	5	0	Saudi-Arabia Abha
+17	DF	Olivier MBAIZO	15 August 1997 (aged 25)	11	0	United-States Philadelphia Union
+18	MF	Martin HONGLA	16 March 1998 (aged 24)	20	0	Italy Hellas Verona
+19	DF	Collins FAI	13 August 1992 (aged 30)	53	0	Saudi-Arabia Al-Tai
+20	FW	Bryan MBEUMO	7 August 1999 (aged 23)	4	0	England Brentford
+21	DF	Jean-Charles CASTELLETTO	26 January 1995 (aged 27)	15	0	France Nantes
+22	MF	Olivier NTCHAM	9 February 1996 (aged 26)	4	0	Wales Swansea City
+23	GK	Andre ONANA	2 April 1996 (aged 26)	34	0	Italy Internazionale
+24	DF	Enzo EBOSSE	11 March 1999 (aged 23)	3	0	Italy Udinese
+25	DF	Nouhou TOLO	23 June 1997 (aged 25)	19	0	United-States Seattle Sounders FC
+26	MF	Souaibou MAROU	3 December 2000 (aged 21)	3	1	Cameroon Coton Sport
+Serbia
+1	GK	Marko DMITROVIC	24 January 1992 (aged 30)	19	0	Spain Sevilla
+2	DF	Strahinja PAVLOVIC	24 May 2001 (aged 21)	22	1	Austria Red Bull Salzburg
+3	DF	Strahinja ERAKOVIC	22 January 2001 (aged 21)	2	0	Serbia Red Star Belgrade
+4	DF	Nikola MILENKOVIC	12 October 1997 (aged 25)	39	3	Italy Fiorentina
+5	DF	Milos VELJKOVIC	26 September 1995 (aged 27)	21	0	Germany Werder Bremen
+6	MF	Nemanja MAKSIMOVIC	26 January 1995 (aged 27)	40	0	Spain Getafe
+7	FW	Nemanja RADONJIC	15 February 1996 (aged 26)	36	5	Italy Torino
+8	MF	Nemanja GUDELJ	16 November 1991 (aged 31)	49	1	Spain Sevilla
+9	FW	Aleksandar MITROVIC	16 September 1994 (aged 28)	76	50	England Fulham
+10	FW	Dusan TADIC (captain)	20 November 1988 (aged 34)	91	20	Netherlands Ajax
+11	FW	Luka JOVIC	23 December 1997 (aged 24)	29	10	Italy Fiorentina
+12	GK	Predrag RAJKOVIC	31 October 1995 (aged 27)	28	0	Spain Mallorca
+13	DF	Stefan MITROVIC	22 May 1990 (aged 32)	35	0	Spain Getafe
+14	MF	Andrija ZIVKOVIC	11 July 1996 (aged 26)	29	1	Greece PAOK
+15	DF	Srdan BABIC	22 April 1996 (aged 26)	2	0	Spain Almeria
+16	MF	Sasa LUKIC	13 August 1996 (aged 26)	32	2	Italy Torino
+17	MF	Filip KOSTIC	1 November 1992 (aged 30)	50	3	Italy Juventus
+18	FW	Dusan VLAHOVIC	28 January 2000 (aged 22)	17	9	Italy Juventus
+19	MF	Uros RACIC	17 March 1998 (aged 24)	9	0	Portugal Braga
+20	MF	Sergej MILINKOVIC-SAVIC	27 February 1995 (aged 27)	36	6	Italy Lazio
+21	FW	Filip DJURICIC	30 January 1992 (aged 30)	37	5	Italy Sampdoria
+22	MF	Darko LAZOVIC	15 September 1990 (aged 32)	26	1	Italy Hellas Verona
+23	GK	Vanja MILINKOVIC	20 February 1997 (aged 25)	7	0	Italy Torino
+24	MF	Ivan ILIC	17 March 2001 (aged 21)	6	0	Italy Hellas Verona
+25	DF	Filip MLADENOVIC	15 August 1991 (aged 31)	20	1	Poland Legia Warsaw
+26	MF	Marko GRUJIC	13 April 1996 (aged 26)	18	0	Portugal Porto
+Switzerland
+1	GK	Yann SOMMER	17 December 1988 (aged 33)	77	0	Germany Borussia Monchengladbach
+2	DF	Edimilson FERNANDES	15 April 1996 (aged 26)	22	2	Germany Mainz 05
+3	DF	Silvan WIDMER	5 March 1993 (aged 29)	34	2	Germany Mainz 05
+4	DF	Nico ELVEDI	30 September 1996 (aged 26)	41	1	Germany Borussia Monchengladbach
+5	DF	Manuel AKANJI	19 July 1995 (aged 27)	43	1	England Manchester City
+6	MF	Denis ZAKARIA	20 November 1996 (aged 26)	43	3	England Chelsea
+7	FW	Breel EMBOLO	14 February 1997 (aged 25)	59	11	France Monaco
+8	MF	Remo FREULER	15 April 1992 (aged 30)	49	5	England Nottingham Forest
+9	FW	Haris SEFEROVIC	22 February 1992 (aged 30)	89	25	Turkey Galatasaray
+10	MF	Granit XHAKA (captain)	27 September 1992 (aged 30)	107	12	England Arsenal
+11	DF	Renato Steffen	3 November 1991 (aged 31)	28	1	Switzerland Lugano
+12	GK	Jonas OMLIN	10 January 1994 (aged 28)	4	0	France Montpellier
+13	DF	Ricardo RODRIGUEZ	25 August 1992 (aged 30)	100	9	Italy Torino
+14	MF	Michel AEBISCHER	6 January 1997 (aged 25)	12	0	Italy Bologna
+15	MF	Mohameth SOW	6 February 1997 (aged 25)	32	0	Germany Eintracht Frankfurt
+16	MF	Christian FASSNACHT	11 November 1993 (aged 29)	16	4	Switzerland Young Boys
+17	FW	Ruben VARGAS	5 August 1998 (aged 24)	27	4	Germany FC Augsburg
+18	DF	Eray COMERT	4 February 1998 (aged 24)	10	0	Spain Valencia
+19	FW	Noah OKAFOR	24 May 2000 (aged 22)	9	2	Austria Red Bull Salzburg
+20	MF	Fabian FREI	8 January 1989 (aged 33)	22	3	Switzerland Basel
+21	GK	Gregor KOBEL	6 December 1997 (aged 24)	3	0	Germany Borussia Dortmund
+22	DF	Fabian SCHAER	20 December 1991 (aged 30)	73	8	England Newcastle United
+23	MF	Xherdan SHAQIRI	10 October 1991 (aged 31)	109	26	United-States Chicago Fire FC
+24	GK	Philipp KOEHN	2 April 1998 (aged 24)	0	0	Austria Red Bull Salzburg
+25	MF	Fabian RIEDER	16 February 2002 (aged 20)	0	0	Switzerland Young Boys
+26	MF	Ardon JASHARI	30 July 2002 (aged 20)	1	0	Switzerland Luzern
+Ghana
+1	GK	Lawrence Ati ZIGI	29 November 1996 (aged 25)	11	0	Switzerland St. Gallen
+2	DF	Tariq LAMPTEY	30 September 2000 (aged 22)	2	0	England Brighton & Hove Albion
+3	DF	Denis ODOI	27 May 1988 (aged 34)	4	0	Belgium Club Brugge
+4	DF	Mohammed SALISU	17 April 1999 (aged 23)	3	1	England Southampton
+5	MF	Thomas PARTEY	13 June 1993 (aged 29)	40	13	England Arsenal
+6	MF	Elisha OWUSU	7 November 1997 (aged 25)	3	0	Belgium Gent
+7	MF	Abdul Fatawu ISSAHAKU	8 March 2004 (aged 18)	13	1	Portugal Sporting CP
+8	MF	Daniel-Kofi KYEREH	8 March 1996 (aged 26)	15	0	Germany SC Freiburg
+9	FW	Jordan AYEW	11 September 1991 (aged 31)	84	19	England Crystal Palace
+10	FW	Andre AYEW (captain)	17 December 1989 (aged 32)	110	23	Qatar Al-Sadd
+11	MF	Osman BUKARI	13 December 1998 (aged 23)	7	1	Serbia Red Star Belgrade
+12	GK	Danlad IBRAHIM	2 December 2002 (aged 19)	4	0	Ghana Asante Kotoko
+13	MF	Daniel AFRIYIE	26 June 2001 (aged 21)	7	3	Ghana Hearts of Oak
+14	DF	Gideon MENSAH	18 July 1998 (aged 24)	12	0	France Auxerre
+15	DF	Joseph AIDOO	29 September 1995 (aged 27)	11	0	Spain Celta Vigo
+16	GK	Abdul Manaf NURUDEEN	8 February 1999 (aged 23)	2	0	Belgium Eupen
+17	DF	Baba RAHMAN	2 July 1994 (aged 28)	48	1	England Reading
+18	DF	Daniel AMARTEY	21 December 1994 (aged 27)	46	0	England Leicester City
+19	FW	Inaki WILLIAMS	15 June 1994 (aged 28)	3	0	Spain Athletic Bilbao
+20	MF	Kudus MOHAMMED	2 August 2000 (aged 22)	18	5	Netherlands Ajax
+21	MF	Salis ABDUL SAMED	26 March 2000 (aged 22)	1	0	France Lens
+22	MF	Kamaldeen SULEMANA	15 February 2002 (aged 20)	13	0	France Rennes
+23	DF	Alexander DJIKU	9 August 1994 (aged 28)	18	1	France Strasbourg
+24	MF	Kamal SOWAH	9 January 2000 (aged 22)	1	0	Belgium Club Brugge
+25	FW	Antoine SEMENYO	7 January 2000 (aged 22)	4	1	England Bristol City
+26	DF	Seidu ALIDU	4 June 2000 (aged 22)	4	0	France Clermont
+Portugal
+1	GK	RUI PATRICIO	15 February 1988 (aged 34)	105	0	Italy Roma
+2	DF	DIOGO DALOT	18 March 1999 (aged 23)	7	2	England Manchester United
+3	DF	PEPE	26 February 1983 (aged 39)	129	7	Portugal Porto
+4	DF	RUBEN DIAS	14 May 1997 (aged 25)	40	2	England Manchester City
+5	DF	RAPHAEL GUERREIRO	22 December 1993 (aged 28)	57	3	Germany Borussia Dortmund
+6	MF	JOAO PALHINHA	9 July 1995 (aged 27)	15	2	England Fulham
+7	FW	CRISTIANO RONALDO (captain)	5 February 1985 (aged 37)	191	117	England Manchester United
+8	MF	BRUNO FERNANDES	8 September 1994 (aged 28)	49	11	England Manchester United
+9	FW	ANDRE SILVA	6 November 1995 (aged 27)	52	19	Germany RB Leipzig
+10	FW	BERNARDO SILVA	10 August 1994 (aged 28)	73	8	England Manchester City
+11	FW	JOAO FELIX	10 November 1999 (aged 23)	24	3	Spain Atletico Madrid
+12	GK	JOSE SA	17 January 1993 (aged 29)	0	0	England Wolverhampton Wanderers
+13	DF	DANILO	9 September 1991 (aged 31)	63	2	France Paris Saint-Germain
+14	MF	WILLIAM	7 April 1992 (aged 30)	76	5	Spain Real Betis
+15	FW	RAFAEL LEAO	10 June 1999 (aged 23)	11	0	Italy Milan
+16	MF	VITINHA	13 February 2000 (aged 22)	5	0	France Paris Saint-Germain
+17	MF	JOAO MARIO	19 January 1993 (aged 29)	53	3	Portugal Benfica
+18	MF	RUBEN NEVES	13 March 1997 (aged 25)	32	0	England Wolverhampton Wanderers
+19	DF	Nuno Mendes	19 June 2002 (aged 20)	17	0	France Paris Saint-Germain
+20	DF	JOAO CANCELO	27 May 1994 (aged 28)	37	7	England Manchester City
+21	FW	Ricardo HORTA	15 September 1994 (aged 28)	6	1	Portugal Braga
+22	GK	DIOGO COSTA	19 September 1999 (aged 23)	7	0	Portugal Porto
+23	MF	MATHEUS NUNES	27 August 1998 (aged 24)	9	1	England Wolverhampton Wanderers
+24	DF	ANTONIO SILVA	30 October 2003 (aged 19)	1	0	Portugal Benfica
+25	MF	OTAVIO	9 February 1995 (aged 27)	8	2	Portugal Porto
+26	FW	GONCALO RAMOS	20 June 2001 (aged 21)	1	1	Portugal Benfica
+South Korea
+1	GK	KIM Seunggyu	30 September 1990 (aged 32)	67	0	Saudi-Arabia Al-Shabab
+2	DF	YOON Jonggyu	20 March 1998 (aged 24)	4	0	South-Korea FC Seoul
+3	DF	KIM Seunggyu	13 June 1992 (aged 30)	61	2	South-Korea Jeonbuk Hyundai Motors
+4	DF	Kim MINJAE	15 November 1996 (aged 26)	44	3	Italy Napoli
+5	MF	JUNG Wooyoung	14 December 1989 (aged 32)	66	3	Qatar Al-Sadd
+6	MF	HWANG Inbeom	20 September 1996 (aged 26)	37	4	Greece Olympiacos
+7	MF	SON Heungmin (captain)	8 July 1992 (aged 30)	104	35	England Tottenham Hotspur
+8	MF	PAIK Seungho	17 March 1997 (aged 25)	14	2	South-Korea Jeonbuk Hyundai Motors
+9	FW	CHO Guesung	25 January 1998 (aged 24)	16	4	South-Korea Jeonbuk Hyundai Motors
+10	MF	LEE Jaesung	10 August 1992 (aged 30)	64	9	Germany Mainz 05
+11	MF	HWANG Heechan	26 January 1996 (aged 26)	49	9	England Wolverhampton Wanderers
+12	GK	SONG Bumkeun	15 October 1997 (aged 25)	1	0	South-Korea Jeonbuk Hyundai Motors
+13	MF	SON Junho	12 May 1992 (aged 30)	15	0	China Shandong Taishan
+14	DF	HONG Chul	17 September 1990 (aged 32)	46	1	South-Korea Daegu FC
+15	DF	KIM Moonhwan	1 August 1995 (aged 27)	22	0	South-Korea Jeonbuk Hyundai Motors
+16	FW	HWANG Uijo	28 August 1992 (aged 30)	49	16	Greece Olympiacos
+17	MF	NA Sangho	12 August 1996 (aged 26)	24	2	South-Korea FC Seoul
+18	MF	LEE Kangin	19 February 2001 (aged 21)	6	0	Spain Mallorca
+19	DF	KIM Younggwon	27 February 1990 (aged 32)	96	6	South-Korea Ulsan Hyundai
+20	DF	KWON Kyungwon	31 January 1992 (aged 30)	28	2	Japan Gamba Osaka
+21	GK	JO Hyeonwoo	25 September 1991 (aged 31)	22	0	South-Korea Ulsan Hyundai
+22	MF	KWON Changhoon	30 June 1994 (aged 28)	42	12	South-Korea Gimcheon Sangmu
+23	DF	KIM Taehwan	24 July 1989 (aged 33)	19	0	South-Korea Ulsan Hyundai
+24	DF	CHO Yumin	17 November 1996 (aged 26)	4	0	South-Korea Daejeon Hana Citizen
+25	MF	JEONG Wooyeong	20 September 1999 (aged 23)	9	2	Germany SC Freiburg
+26	MF	SONG Minkyu	12 September 1999 (aged 23)	13	1	South-Korea Jeonbuk Hyundai Motors
+Uruguay
+1	GK	Fernando MUSLERA	16 June 1986 (aged 36)	133	0	Turkey Galatasaray
+2	DF	Jose GIMENEZ	20 January 1995 (aged 27)	78	8	Spain Atletico Madrid
+3	DF	Diego GODIN (captain)	16 February 1986 (aged 36)	159	8	Argentina Velez Sarsfield
+4	DF	Ronald Araujo	7 March 1999 (aged 23)	12	0	Spain Barcelona
+5	MF	Matias VECINO	24 August 1991 (aged 31)	62	4	Italy Lazio
+6	MF	Rodrigo BENTANCUR	25 June 1997 (aged 25)	51	1	England Tottenham Hotspur
+7	MF	Nicolas DE LA CRUZ	1 June 1997 (aged 25)	17	2	Argentina River Plate
+8	FW	Facundo PELLISTRI	20 December 2001 (aged 20)	7	0	England Manchester United
+9	FW	Luis SUAREZ	24 January 1987 (aged 35)	134	68	Uruguay Nacional
+10	MF	Giorgian DE ARRASCAETA	1 June 1994 (aged 28)	40	8	Brazil Flamengo
+11	FW	Darwin NUNEZ	24 June 1999 (aged 23)	13	3	England Liverpool
+12	GK	Sebastian SOSA	19 August 1986 (aged 36)	1	0	Argentina Independiente
+13	DF	Guillermo VARELA	24 March 1993 (aged 29)	9	0	Brazil Flamengo
+14	MF	Lucas TORREIRA	11 February 1996 (aged 26)	40	0	Turkey Galatasaray
+15	MF	Federico VALVERDE	22 July 1998 (aged 24)	44	4	Spain Real Madrid
+16	DF	Mathias OLIVERA	31 October 1997 (aged 25)	8	0	Italy Napoli
+17	DF	Matias VINA	9 November 1997 (aged 25)	26	0	Italy Roma
+18	FW	Maximiliano GOMEZ	14 August 1996 (aged 26)	27	4	Turkey Trabzonspor
+19	DF	Sebastian COATES	7 October 1990 (aged 32)	47	1	Portugal Sporting CP
+20	FW	Facundo TORRES	13 April 2000 (aged 22)	10	0	United-States Orlando City SC
+21	FW	Edinson CAVANI	14 February 1987 (aged 35)	133	58	Spain Valencia
+22	DF	Martin CACERES	7 April 1987 (aged 35)	115	4	United-States LA Galaxy
+23	GK	Sergio ROCHET	23 March 1993 (aged 29)	8	0	Uruguay Nacional
+24	MF	Agustin CANOBBIO	1 October 1998 (aged 24)	3	0	Brazil Athletico Paranaense
+25	MF	Manuel UGARTE	11 April 2001 (aged 21)	6	0	Portugal Sporting CP
+26	DF	Jose Luis RODRIGUEZ	14 March 1997 (aged 25)	0	0	Uruguay Nacional
